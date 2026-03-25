@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on **ILBC**
 
-- 🌱 I’m currently learning **Node.js**
 
 - 👯 I’m looking to collaborate on **ILBC**
 
